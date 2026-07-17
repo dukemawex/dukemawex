@@ -41,6 +41,9 @@
 
 ### 📫 Reach me
 - ✉️ **stardukeza@gmail.com**
+- 🔬 ORCID: [0009-0009-9311-2792](https://orcid.org/0009-0009-9311-2792)
+- 💼 LinkedIn: [emmanuel-duke](https://www.linkedin.com/in/emmanuel-duke-a5723320b)
+- 🐦 X: [@starduke001](https://x.com/starduke001)
 - 💻 [github.com/dukemawex](https://github.com/dukemawex)
 
 ---
