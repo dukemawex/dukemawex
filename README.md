@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Emmanuel Duke 👋</h1>
 
 <p align="center">
-  <b>Interdisciplinary researcher — AI safety & interpretability, agentic security, and applied AI for Africa.</b>
+  <b>Interdisciplinary researcher </b>
 </p>
 
 <p align="center">
