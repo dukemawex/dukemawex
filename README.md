@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Emmanuel Duke 👋</h1>
 
 <p align="center">
-  <b>AI safety & interpretability researcher — and builder of applied AI for Africa.</b>
+  <b>Interdisciplinary researcher — AI safety & interpretability, agentic security, and applied AI for Africa.</b>
 </p>
 
 <p align="center">
-  I work at two ends of the same question: <i>how do we understand what AI is actually doing</i>,
-  and <i>how do we point it at problems that matter for people who are usually left out.</i>
+  An interdisciplinary researcher working across machine learning, security, and the applied
+  sciences — from <i>understanding what AI is actually doing</i> to <i>pointing it at problems
+  that matter for people who are usually left out.</i>
 </p>
 
 ---
@@ -42,6 +43,7 @@
 ### 📫 Reach me
 - ✉️ **stardukeza@gmail.com**
 - 🔬 ORCID: [0009-0009-9311-2792](https://orcid.org/0009-0009-9311-2792)
+- 🎓 Google Scholar: [Emmanuel Duke](https://scholar.google.com/citations?user=Y8si5ZgAAAAJ)
 - 💼 LinkedIn: [emmanuel-duke](https://www.linkedin.com/in/emmanuel-duke-a5723320b)
 - 🐦 X: [@starduke001](https://x.com/starduke001)
 - 💻 [github.com/dukemawex](https://github.com/dukemawex)
