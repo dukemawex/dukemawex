@@ -18,6 +18,7 @@
 - Mechanistic interpretability with Stochastic Parameter Decomposition — mechanism clustering on real grokked transformers ([`spd-real-transformer`](https://github.com/dukemawex/spd-real-transformer), [`spd-mechanism-clustering`](https://github.com/dukemawex/spd-mechanism-clustering), [`spd-causal-clustering`](https://github.com/dukemawex/spd-causal-clustering)).
 - Cross-architecture universality of deception features ([`deception-feature-universality`](https://github.com/dukemawex/deception-feature-universality)).
 - Reward generalization early-warning ([`reward-generalization-earlywarning`](https://github.com/dukemawex/reward-generalization-earlywarning)).
+- Multilingual AI safety on Tiny Aya Earth for Yoruba, Hausa and Igbo ([article](https://duker.me/articles/tiny-aya-earth-nigerian-safety/), [`lexsi-safety`](https://github.com/dukemawex/lexsi-safety)). Top 10% of 369 submissions at the Lexsi AI Safety and Alignment Hackathon 2026.
 
 **Agentic security** — the reasoning process itself is becoming an attack surface.
 - [`reasoning-monitor`](https://github.com/dukemawex/reasoning-monitor) — detecting injected/absorbed premises in agentic reasoning chains, with activation probes.
